@@ -29,7 +29,7 @@ Here is the complete circuit wiring in Tinkercad:
 
 ## 💻 How to Use
 
-1.  **Open in Tinkercad**: [Link to your public Tinkercad project] *(Optional: Make your project public in Tinkercad and paste the link here)*
+1.  **Open in Tinkercad**: [[Project Link](https://www.tinkercad.com/things/cj3uHaag9TB-iot-mini-project-3rd-yr)]
 2.  **Start Simulation**: Click the "Start Simulation" button.
 3.  **Open Serial Monitor**: Click the "Serial Monitor" button at the bottom of the screen.
 4.  **Send Commands**: Type one of the following commands into the serial input box and press "Send":
