@@ -24,9 +24,9 @@ It simulates a real-world IoT (Internet of Things) device by using the **Serial 
 ## Circuit Diagram
 
 Here is the complete circuit wiring in Tinkercad:
+
 <img width="1619" height="786" alt="Screenshot 2025-10-25 222503" src="https://github.com/user-attachments/assets/64f278e1-625b-4e1a-bb8f-5b06b5bb4c9e" />
 
-*(**Action for you**: Add a screenshot of your Tinkercad circuit here. Just drag and drop the image file onto the GitHub README editor.)*
 
 ## 💻 How to Use
 
